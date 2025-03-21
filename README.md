@@ -17,11 +17,6 @@
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp&logoColor=239120)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
 
-## 📊 Mes statistiques GitHub :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melolxd&show_icons=true&theme=radical)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=melolxd&layout=compact&theme=radical)
-
 ## 📫 Me contacter :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matt%C3%A9o-faye-91a496249/)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:matteo.faye42@gmail.com)
