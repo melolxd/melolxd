@@ -48,7 +48,6 @@
 ### **Statistiques**
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melolxd&show_icons=true&locale=fr&theme=tokyonight" alt="stats_github" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melolxd&show_icons=true&locale=fr&layout=compact&theme=tokyonight" alt="top_langs" />
 </p>
 
